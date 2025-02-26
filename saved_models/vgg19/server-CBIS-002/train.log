@@ -1,0 +1,51 @@
+training set size: 3270
+push set size: 327
+test set size: 166
+batch size: 80
+training set size: 3270
+push set size: 327
+test set size: 166
+batch size: 80
+start training
+epoch: 	0
+	warm
+	train
+training set size: 3270
+push set size: 327
+test set size: 166
+batch size: 80
+start training
+epoch: 	0
+	warm
+	train
+training set size: 3270
+push set size: 327
+test set size: 166
+batch size: 80
+start training
+epoch: 	0
+	warm
+	train
+	time: 	712.059538602829
+	cross ent: 	0.49189729443410546
+	cluster: 	2.5174243304787614
+	separation:	5.816846440478069
+	avg separation:	13.820000276332948
+	fine: 	0.0
+	accu: 		83.08868501529052%
+	l1: 		30.0
+	p dist pair: 	19.66751480102539
+	tp: 	10
+	fp: 	33
+	tn: 	2707
+	fn: 	520
+	total mask distance diff:	0.0
+	total mask activation diff:	0.0
+training set size: 3270
+push set size: 327
+test set size: 166
+batch size: 80
+start training
+epoch: 	0
+	warm
+	train
